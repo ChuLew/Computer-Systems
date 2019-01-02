@@ -1,0 +1,12 @@
+Hi, I'm process 31806 and my parent is 31796
+Hi, I'm process 31807 and my parent is 31806
+Hi, I'm process 31808 and my parent is 31807
+Hi, I'm process 31809 and my parent is 31807
+Hi, I'm process 31810 and my parent is 31806
+Hi, I'm process 31811 and my parent is 31810
+Hi, I'm process 31812 and my parent is 31810
+SUM=263
+Hi, I'm process 31813 and my parent is 31806
+MIN=4
+Hi, I'm process 31814 and my parent is 31806
+MAX=77

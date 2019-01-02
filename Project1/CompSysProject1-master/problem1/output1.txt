@@ -1,0 +1,13 @@
+Start C with pid=6022
+Terminate C with pid=6022
+Start D with pid=6023
+Terminate D with pid=6023
+Start B with pid=6021
+B is waiting for D
+	D's exit code = 12
+Terminate B with pid=6021
+Start A with pid=6020
+A is waiting for children B and C
+	C's exit code = 9
+	B's exit code = 8
+Terminate A with pid=6020, exit code=5
