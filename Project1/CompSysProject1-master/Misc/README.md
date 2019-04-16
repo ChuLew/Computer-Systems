@@ -1,7 +1,7 @@
 # CompSysProject1
 Computer Systems Project 1
 
-/*How to run code zeroA.c zeroB.c zeroC.C*/
+/*How to run code zeroA.c zeroB.c and zeroC.C*/
 
 *in command line*  ./a.out(executable file name) test.txt (*input file name*)
 for example:
